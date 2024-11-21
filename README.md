@@ -3,6 +3,8 @@
 - 🌱 I’m currently teaching and learning machine learning, Python and Matlab programming, digital image processing, digital signal processing, discrete mathematics.
 - 💞️ I’m looking to collaborate on python programming and neural networks.
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosoto)](https://github.com/raymundosoto/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymundosoto)](https://github.com/raymundosoto/github-readme-stats)
 
