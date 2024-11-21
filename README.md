@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on python programming and neural networks.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymundosoto)](https://github.com/raymundosoto/github-readme-stats)
+
+
 
 
 
