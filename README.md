@@ -6,9 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosoto&langs_count=10)](https://github.com/raymundosoto/github-readme-stats)
  
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymundosoto)](https://github.com/raymundosoto/github-readme-stats&show_icons=true&theme=aura)
-
+![Raymundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymundosotoa&show_icons=true&theme=aura)
 
 
 
