@@ -3,7 +3,13 @@
 - 🌱 I’m currently teaching and learning machine learning, Python and Matlab programming, digital image processing, digital signal processing, discrete mathematics.
 - 💞️ I’m looking to collaborate on python programming and neural networks.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 
 | Lenguajes más usados | Estadísticas de GitHub |
