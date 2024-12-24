@@ -32,6 +32,11 @@
 |-----------------------|-------------------------|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymundosoto&langs_count=10)](https://github.com/raymundosoto/github-readme-stats) | ![Raymundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymundosoto&show_icons=true&theme=aura) |
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raymundosoto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
 
 
